@@ -10,7 +10,7 @@ public class Coche extends Vehiculo {
 
         double precio = dias * getPrecioDia();
 
-        if (dias >= 7 {
+        if (dias >= 7) {
 
             precio = precio * 0.9;
 
